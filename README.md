@@ -1,6 +1,8 @@
 
 # Figure 1 
 
+![Figure 1](Figure 1.png)
+
 # Main paper schematic
 
 ![Main paper schematic](Figure_main.jpeg)
