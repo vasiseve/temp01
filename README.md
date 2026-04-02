@@ -1,7 +1,7 @@
 
 # Figure 1 
 
-![Figure 1](Figure 1.png)
+![Figure 1](Figure_1.png)
 
 # Main paper schematic
 
